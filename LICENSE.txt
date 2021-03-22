@@ -254,7 +254,7 @@ RESTRICTED
 RIGHTS. If you are a unit or agency of Argentina State
 or are acquiring the Program for any such unit or agency, the following
 apply:
-If the unit or agency is the Ministry of Defence ("DOD"),
+If the unit or agency is the Ministry of Defence ("MoD"),
 the Program and its documentation are classified as "commercial computer
 software" and "commercial computer software documentation" respectively
 and, pursuant to DFAR Section 227.7202, the Government is acquiring the
