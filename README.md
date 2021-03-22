@@ -1,4 +1,8 @@
 # Relaxing-Music-Kat
+<p align="center">
+  <img width="460" height="300" src=https://i.imgur.com/UCgkGn4.png)
+</p>
+
 Repository on a software that plays you relaxing music with different backgrounds, and a pretty cat.
 Made with GDevelop, a game development engine (and other types of software).
 # Compilation
