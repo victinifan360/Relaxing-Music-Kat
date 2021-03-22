@@ -253,17 +253,16 @@ If any part of this License is found to be in conflict with the law,
 that part shall be interpreted in its broadest meaning consistent with
 the law, and no other parts of the License shall be affected.
 For Argetine Government users, the Program is provided with
-RESTRICTED
-RIGHTS. If you are a unit or agency of Argentina State
+RESTRICTED RIGHTS. If you are a unit or agency of Argentina State
 or are acquiring the Program for any such unit or agency, the following
 apply:
-If the unit or agency is the Ministry of Defence ("MoD"),
-the Program and its documentation are classified as "commercial computer
-software" and "commercial computer software documentation" respectively
-and, pursuant to DFAR Section 227.7202, the Government is acquiring the
-Program and its documentation in accordance with the terms of this License.
-If the unit or agency is other than DOD, the Program and its documentation
-are classified as "commercial computer software" and "commercial computer
-software documentation" respectively and, pursuant to FAR Section 12.212,
-the Government is acquiring the Program and its documentation in accordance
+If the unit or agency is the Ministry of Defence ("MOD"),
+the Program and its documentation are classified as "commercial software"  
+respectively and, pursuant to the law, the Government 
+is acquiring the Program and its documentation in 
+accordance with the terms of this License.
+If the unit or agency is other than MOD, the Program and its documentation
+are classified as "commercial computer software" respectively and,
+pursuant to the law,the Government is acquiring the
+Program and its documentation in accordance
 with the terms of this License.
