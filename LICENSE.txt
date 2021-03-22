@@ -262,7 +262,7 @@ respectively and, pursuant to the law, the Government
 is acquiring the Program and its documentation in 
 accordance with the terms of this License.
 If the unit or agency is other than MOD, the Program and its documentation
-are classified as "commercial computer software" respectively and,
+are classified as "commercial product" respectively and,
 pursuant to the law,the Government is acquiring the
 Program and its documentation in accordance
 with the terms of this License.
