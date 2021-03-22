@@ -248,17 +248,17 @@ EVEN IF SUCH HOLDER OR OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY
 OF SUCH DAMAGES.
 
 6. General.
-This License is governed by the laws of the State of California, U.S.A.,
-excluding choice of law rules.
+This License is governed by the laws of the Autonomous city
+of Buenos Aires, Argentina, excluding choice of law rules.
 If any part of this License is found to be in conflict with the law,
 that part shall be interpreted in its broadest meaning consistent with
 the law, and no other parts of the License shall be affected.
-For United States Government users, the Program is provided with
+For Argetine Government users, the Program is provided with
 RESTRICTED
-RIGHTS. If you are a unit or agency of the United States Government
+RIGHTS. If you are a unit or agency of Argentina State
 or are acquiring the Program for any such unit or agency, the following
 apply:
-If the unit or agency is the Department of Defense ("DOD"),
+If the unit or agency is the Ministry of Defence ("DOD"),
 the Program and its documentation are classified as "commercial computer
 software" and "commercial computer software documentation" respectively
 and, pursuant to DFAR Section 227.7202, the Government is acquiring the
