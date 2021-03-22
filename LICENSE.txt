@@ -1,3 +1,6 @@
+Aladdin Free Public License
+(Version 8, November 18, 1999)
+
 Copyright (C) 1994, 1995, 1997, 1998, 1999, 2000 Aladdin Enterprises,
 Menlo Park, California, U.S.A. All rights reserved.
 
