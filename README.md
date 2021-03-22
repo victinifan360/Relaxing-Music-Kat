@@ -13,6 +13,6 @@ All the audio belongs to Alejo Fernandez under the CC BY-NC-SA license (for more
 Thanks to Rodman Browning for the image of the logo (more information: https://pixabay.com/es/illustrations/gato-gato-negro-kat-mascota-kitty-1608200/).
 The images are taken from the internet under the CC0 license.
 # More information
-Did you know that this show has a secret !?
+Did you know that this show has a secret!?
 Decipher the source code and find out (in Spanish).
 Any contribution is appreciated.
