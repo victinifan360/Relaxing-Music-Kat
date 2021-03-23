@@ -53,7 +53,7 @@
       "ios-icon-87": "ios-icon-87.png"
     },
     "loadingScreen": {
-      "showGDevelopSplash": true
+      "showGDevelopSplash": false
     },
     "extensionProperties": [
       {
